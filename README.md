@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mouad-Ghour
+- 👀 I’m interested in everything that has to do with Computer Science, AI and Making ideas into real world working projects 
+- 🌱 I’m currently learning ReactJs, CNN and S2S models, 
+- 💞️ I would love colaborating on any sort of project, I can be quite intressted in a lot of things actually
+- 📫 my LinkedIn is Open for anyone that wants to contact me @Mouad_Ghourdou
